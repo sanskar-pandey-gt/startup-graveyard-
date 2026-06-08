@@ -20,5 +20,5 @@ The best dashboard explanation format. • Business problem • Goal of the dash
 
 • Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore various failed startups and takeaway what led to their ultimate demise through charts and visuals .
 
-[dashboard preview]: https://github.com/sanskar-pandey-gt/startup-graveyard-/blob/main/DASHBOARD%20FINAL%20.png
+example: [dashboard preview]: https://github.com/sanskar-pandey-gt/startup-graveyard-/blob/main/DASHBOARD%20FINAL%20.png
 
